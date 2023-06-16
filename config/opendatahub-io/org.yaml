@@ -129,6 +129,7 @@ orgs:
       Data Science Pipelines Maintainers:
         description: "Maintainers for ODH DSP and related repos."
         maintainers:
+        - anishasthana
         - gregsheremeta
         - HumairAK
         members:
