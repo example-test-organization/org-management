@@ -148,10 +148,10 @@ orgs:
         maintainers:
         - accorvin
         - anishasthana
+        - astefanutti
         - dimakis
         members:
         - amsharma3
-        - astefanutti
         - Bobbins228
         - carsonmh
         - ChughShilpa
@@ -386,9 +386,9 @@ orgs:
       ODH Dashboard Maintainers:
         description: Maintainers of the ODH Dashboard repo
         maintainers:
+        - andrewballantyne
         - cfchase
         - LaVLaS
-        - andrewballantyne
         members:
         - alexcreasy
         - Gkrumbach07
